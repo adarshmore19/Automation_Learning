@@ -15,3 +15,8 @@ DAY 2-Learnt about
                    
                    > taking user input and storing that input into variable to change the file name into the prefix given by the user
 
+DAY 3-Learnt about 
+                   
+                   > os.path.splitext ->Splits the path into pair - root and ext where root is path of file and ext is extension of file
+
+
