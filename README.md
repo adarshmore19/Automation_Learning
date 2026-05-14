@@ -19,4 +19,8 @@ DAY 3-Learnt about
                    
                    > os.path.splitext ->Splits the path into pair - root and ext where root is path of file and ext is extension of file
 
+DAY 4- Learnt about 
+                   
+                   > os.makedirs -> is a Python command used to create folders.
+                   > os.path.isdir -> is a Python command used to check if something is a folder
 
